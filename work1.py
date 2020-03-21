@@ -3,8 +3,8 @@ import numpy as np
 import aiohttp,time,asyncio,tqdm,string
 from bs4 import BeautifulSoup as bs
 '''
-Case was get data about indian companies from site http://www.icchk.org.hk/business_directory.php?menu=business 
-and put info in XLS file. 
+                                    Case
+Get info about indian companies from site http://www.icchk.org.hk/business_directory.php?menu=business and put it in XLS file. 
 '''
 
 
