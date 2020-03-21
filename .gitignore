@@ -1,0 +1,8 @@
+__init__.py
+docker-compose.yml
+Vagrantfile
+*.crt
+*.key
+ssl
+__pycache__
+
